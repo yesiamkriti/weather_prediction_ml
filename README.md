@@ -24,5 +24,4 @@ The following Python libraries are utilized in this project:
 - **[Scikit-Learn](https://scikit-learn.org/)**: For machine learning tasks including model building, training, and evaluation.
 - **[Plotly](https://plotly.com/python/)**: For creating interactive visualizations.
 
-## Project Structure
 
